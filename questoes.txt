@@ -1,0 +1,50 @@
+EXT1: Eu sou a alma da festa.
+EXT2: Eu não falo muito.
+EXT3: Eu me sinto à vontade ao redor das pessoas.
+EXT4: Eu fico em segundo plano.
+EXT5: Eu inicio conversas.
+EXT6: Eu tenho pouco a dizer.
+EXT7: Eu converso com muitas pessoas diferentes em festas.
+EXT8: Eu não gosto de chamar atenção para mim.
+EXT9: Eu não me importo de ser o centro das atenções.
+EXT10: Eu sou quieto(a) perto de estranhos.
+EST1: Eu me estresso facilmente.
+EST2: Eu sou relaxado(a) a maior parte do tempo.
+EST3: Eu me preocupo com as coisas.
+EST4: Eu raramente me sinto deprimido(a).
+EST5: Eu me perturbo facilmente.
+EST6: Eu me irrito facilmente.
+EST7: Eu mudo de humor com frequência.
+EST8: Eu tenho mudanças de humor frequentes.
+EST9: Eu me irrito facilmente.
+EST10: Eu frequentemente me sinto deprimido(a).
+AGR1: Eu sinto pouca preocupação pelos outros.
+AGR2: Eu me interesso pelas pessoas.
+AGR3: Eu insulto as pessoas.
+AGR4: Eu simpatizo com os sentimentos dos outros.
+AGR5: Eu não me interesso pelos problemas dos outros.
+AGR6: Eu tenho um coração mole.
+AGR7: Eu realmente não me interesso pelos outros.
+AGR8: Eu tiro um tempo para os outros.
+AGR9: Eu sinto as emoções dos outros.
+AGR10: Eu faço as pessoas se sentirem à vontade.
+CSN1: Eu estou sempre preparado(a).
+CSN2: Eu deixo meus pertences espalhados.
+CSN3: Eu presto atenção aos detalhes.
+CSN4: Eu faço bagunça nas coisas.
+CSN5: Eu faço as tarefas imediatamente.
+CSN6: Eu frequentemente esqueço de colocar as coisas de volta no lugar certo.
+CSN7: Eu gosto de ordem.
+CSN8: Eu fujo das minhas responsabilidades.
+CSN9: Eu sigo um cronograma.
+CSN10: Eu sou exigente no meu trabalho.
+OPN1: Eu tenho um vocabulário rico.
+OPN2: Eu tenho dificuldade em entender ideias abstratas.
+OPN3: Eu tenho uma imaginação vívida.
+OPN4: Eu não me interesso por ideias abstratas.
+OPN5: Eu tenho excelentes ideias.
+OPN6: Eu não tenho uma boa imaginação.
+OPN7: Eu sou rápido(a) para entender as coisas.
+OPN8: Eu uso palavras difíceis.
+OPN9: Eu passo tempo refletindo sobre as coisas.
+OPN10: Eu sou cheio(a) de ideias.
