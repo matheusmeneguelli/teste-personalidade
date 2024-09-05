@@ -4,11 +4,6 @@ Este projeto utiliza o modelo de K-means para analisar e agrupar respostas de um
 ## Descrição do Projeto
 O "Big Five Personality Test" é uma ferramenta psicológica que mede cinco dimensões principais da personalidade: extroversão, neuroticismo, agradabilidade, consciência e abertura a novas experiências. Este projeto aplica o algoritmo de clusterização K-means para analisar as respostas do teste e agrupar os indivíduos em cinco grupos distintos, buscando entender como diferentes traços de personalidade se correlacionam.
 
-## Estrutura do Repositório
-kmeans-teste-personalidade.ipynb: Jupyter Notebook contendo todo o código e análise.
-data-final.csv: Conjunto de dados utilizado na análise.
-README.md: Este arquivo, fornecendo uma visão geral do projeto.
-
 ## Como Utilizar
 Clone ou baixe este repositório para ter acesso local aos arquivos. Certifique-se de instalar todas as bibliotecas necessárias listadas. Abra o kmeans-teste-personalidade.ipynb em sua ferramenta de notebook preferida (Jupyter, Google Colab, etc.) e execute as células para ver a análise em ação.
 
