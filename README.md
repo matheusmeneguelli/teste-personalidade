@@ -10,9 +10,7 @@ data-final.csv: Conjunto de dados utilizado na análise.
 README.md: Este arquivo, fornecendo uma visão geral do projeto.
 
 ## Como Utilizar
-Baixe o Repositório: Clone ou baixe este repositório para ter acesso local aos arquivos.
-Instale as Dependências: Certifique-se de instalar todas as bibliotecas necessárias listadas em requirements.txt.
-Execute o Notebook: Abra o kmeans-teste-personalidade.ipynb em sua ferramenta de notebook preferida (Jupyter, Google Colab, etc.) e execute as células para ver a análise em ação.
+Clone ou baixe este repositório para ter acesso local aos arquivos. Certifique-se de instalar todas as bibliotecas necessárias listadas. Abra o kmeans-teste-personalidade.ipynb em sua ferramenta de notebook preferida (Jupyter, Google Colab, etc.) e execute as células para ver a análise em ação.
 
 ## Contribuições
 Contribuições são bem-vindas! Se você tem melhorias, correções ou novas ideias que podem enriquecer a análise, sinta-se à vontade para abrir uma issue ou pull request.
